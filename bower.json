@@ -1,10 +1,7 @@
 {
-  "name": "easyfont-droid-sans",
-  "homepage": "https://github.com/easyfont/droid-sans",
-  "authors": [
-    "kdawson133 <kdawson133@gmail.com>"
-  ],
-  "description": "Easy font droid-sans",
+  "name": "droid-sans",
+  "homepage": "https://bitbucket.org/viaboxx/droid-sans-font.git",
+  "description": "Droid sans font",
   "main": "droid-sans.css",
   "moduleType": [],
   "keywords": [
@@ -12,11 +9,5 @@
     "font"
   ],
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "ignore": []
 }
